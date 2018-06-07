@@ -1,0 +1,21 @@
+{
+  "name": "ProjectOne",
+  "homepage": "https://github.com/KarlaBurgos/GIT",
+  "authors": [
+    "karlaburgos <karlaandrea.burgos.olascoaga@alumno.uttehuacan.edu.mx>"
+  ],
+  "description": "a basic bootstrap 4 project",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fontawesome": "^5.0.12"
+  }
+}
